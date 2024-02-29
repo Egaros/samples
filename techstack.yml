@@ -2,7 +2,7 @@ repo_name: Egaros/samples
 report_id: 0f3c82e5964b2aaac989569a53b6143b
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T08:02:38+00:00'
+timestamp: '2024-02-29T19:41:16+00:00'
 requested_by: domesticmouse
 provider: github
 branch: main
@@ -95,7 +95,7 @@ tools:
   detection_source_url: https://github.com/Egaros/samples
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -132,7 +132,7 @@ tools:
   last_updated_by: Brett Morgan
   last_updated_on: 2022-05-13 19:31:56.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
